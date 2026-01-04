@@ -1,0 +1,147 @@
+{
+    "properties": [
+        {
+            "id": "prop1",
+            "type": "House",
+            "bedrooms": 3,
+            "price": "Rs. 23.6 million",
+            "tenure": "Freehold",
+            "description": "Construction of a modern three-bedroom house with a private swimming pool in Mount Lavinia, designed to combine contemporary living with comfort and functionality. The project features spacious interiors, high-quality finishes, and thoughtful planning to suit a coastal residential lifestyle",
+            "longDescription": "A super-luxury two-storey residence spanning 2,000 sq.ft. on 7 perches of land, featuring three spacious bedrooms, two elegant bathrooms, and a private swimming pool with an outdoor entertainment area. Built with a reinforced concrete structure (25-year warranty) and premium bathroom fittings (5-year warranty), this unfurnished, one-year-old home offers parking for two vehicles and will be available soon.",
+            "locationpath": "RVJJ+22W Dehiwala-Mount Lavinia",
+            "location": "Dehiwala-Mount Lavinia",
+            "postcode": "BR5",
+            "picture": "public\\web images\\pro1.1.jpeg",
+            "images": [
+                "public\\web images\\pro1.1.jpeg",
+                "public\\web images\\pro1.2.png",
+                "public\\web images\\pro1.3.jpeg",
+                "public\\web images\\pro1.4.png",
+                "public\\web images\\pro1.5.png",
+                "public\\web images\\pro1.7.png"
+            ],
+            "floorPlan": "public\\web images\\pro1.6.png",
+            "added": {
+                "month": "October",
+                "day": 20,
+                "year": 2025
+            }
+        },
+        {
+            "id": "prop2",
+            "type": "Flat",
+            "bedrooms": 2,
+            "price": ,
+            "tenure": "Freehold",
+            "description": "",
+            "longDescription": "",
+            "location": "",
+            "postcode": "BR6",
+            "picture": "",
+            "images": [],
+            "floorPlan": "",
+            "added": {
+                "month": "September",
+                "day": 14,
+                "year": 2025
+            }
+        },
+        {
+            "id": "prop3",
+            "type": "House",
+            "bedrooms": 4,
+            "price": ,
+            "tenure": "Freehold",
+            "description": "",
+            "longDescription": "",
+            "location": "",
+            "postcode": "BR3",
+            "picture": "",
+            "images": [
+                ""
+            ],
+            "floorPlan": "",
+            "added": {
+                "month": "November",
+                "day": 5,
+                "year": 2025
+            }
+        },
+        {
+            "id": "prop4",
+            "type": "Flat",
+            "bedrooms": 1,
+            "price": ,
+            "tenure": "Leasehold",
+            "description": "",
+            "longDescription": "",
+            "location": "",
+            "postcode": "BR6",
+            "picture": "",
+            "images": [],
+            "floorPlan": "",
+            "added": {
+                "month": "December",
+                "day": 1,
+                "year": 2025
+            }
+        },
+        {
+            "id": "prop5",
+            "type": "House",
+            "bedrooms": 5,
+            "price": ,
+            "tenure": "Freehold",
+            "description": "",
+            "longDescription": "",
+            "location": "",
+            "postcode": "BR2",
+            "picture": "",
+            "images": [],
+            "floorPlan": "",
+            "added": {
+                "month": "January",
+                "day": 20,
+                "year": 2025
+            }
+        },
+        {
+            "id": "prop6",
+            "type": "Flat",
+            "bedrooms": 3,
+            "price": ,
+            "tenure": "Leasehold",
+            "description": "",
+            "longDescription": "",
+            "location": "",
+            "postcode": "BR1",
+            "picture": "",
+            "images": [],
+            "floorPlan": "",
+            "added": {
+                "month": "February",
+                "day": 10,
+                "year": 2025
+            }
+        },
+        {
+            "id": "prop7",
+            "type": "House",
+            "bedrooms": 2,
+            "price": ,
+            "tenure": "Freehold",
+            "description": "",
+            "longDescription": "",
+            "location": "",
+            "postcode": "BR5",
+            "picture": "",
+            "images": [],
+            "floorPlan": "",
+            "added": {
+                "month": "March",
+                "day": 15,
+                "year": 2025
+            }
+        }
+    ]
+}
